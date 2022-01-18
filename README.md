@@ -24,7 +24,7 @@
 
 <p align="center">
   <a href="https://github.com/clararls/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="clararls's streak" src="http://github-readme-streak-stats.herokuapp.com?user=clararls&theme=blueberry&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="clararls's streak" src="http://github-readme-streak-stats.herokuapp.com?user=clararls&theme=blueberry&hide_border=true&date_format=j%20M%5B%20Y%5D)]"/>
   </a>
   <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
 </p>
