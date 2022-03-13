@@ -1,6 +1,7 @@
 <h1 align="center">Hi! I'm Clara👩‍💻</h1>
 <h3 align="center">Full-Stack Developer loading...</h3>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+Github!)](https://git.io/typing-svg)
 
 
 <h3 align="center">Connect with me:</h3>
