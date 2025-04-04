@@ -2,12 +2,6 @@
 <h3 align="center">Full-Stack Developer loading...</h3>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Welcome+to+my+Github!)](https://git.io/typing-svg)
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
- <a href="https://www.linkedin.com/in/clara-rojano-leon-salas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="clararls" height="30" width="40" /></a>
-</p>
-
 ## 🛠️ My favorite tools
 
 ### 👨‍💻 Programming languages
